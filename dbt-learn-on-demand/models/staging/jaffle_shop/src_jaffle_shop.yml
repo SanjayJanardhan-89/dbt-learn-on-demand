@@ -3,7 +3,7 @@ version: 2
 
 sources:
   - name: jaffle_shop
-    description: Copy of Postgress app database
+    description: Copy of Postgress app database example
     database: raw
     tables:
       - name: customers
